@@ -1,2 +1,0 @@
-{"station":"Chandigarh","grp":"1 and 5","fc":"2 and 4","hospital":"1","waiting":"1","washroom":"1"}
-{"station":"Chandigarh","grp":"1 and 5","fc":"2 and 6","hospital":"1 and 2 and 3","waiting":"1 and 3 and 5","washroom":"2"}
