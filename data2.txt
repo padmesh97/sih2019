@@ -1,0 +1,5 @@
+{"station":"Chandigarh","train_no":"12500","train_name":"Shatabdi Express","source":"New delhi","destination":"New delhi","status":"departure","time_hr":"1","time_min":"30","platform":"6","ts":"16:00"}
+{"station":"Chandigarh","train_no":"12550","train_name":"ANY Express","source":"New delhi","destination":"New delhi","status":"arriving","time_hr":"1","time_min":"30","platform":"5","ts":"10:00"}
+
+{"station":"Karnal","train_no":"12500","train_name":"Shatabdi Express","source":"New delhi","destination":"New delhi","status":"arriving","time_hr":"0","time_min":"15","platform":"1","ts":"18:00"}
+
